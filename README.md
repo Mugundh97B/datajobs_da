@@ -10,3 +10,7 @@
 
 ### Top skills listed
 ![top skill registered](Charts/top_skills_for_DA_DE_DS.png)
+
+
+### Most prefered skills
+![top skills percent](Charts/most_wanted_skill_percent.png)
