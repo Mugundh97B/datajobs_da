@@ -21,5 +21,5 @@ presented using cleaned datasets
 collected all indian data, and cleaned the duplicats of same company - same job posting. then replaced the null values with the median of the datas
 
 
-### Salary for high available Roles
-![salary_roles](Charts/salary_for_top_roles.png)
+### Salary for median salary for top roles
+![salary_roles](Charts/Median_salary_for_top_roles.png)
